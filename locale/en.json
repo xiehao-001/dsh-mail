@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Mail Assistant",
+    "description": "Standards-based IMAP/SMTP assistant with explicit read/send separation and approval-gated delivery."
+  }
+}
